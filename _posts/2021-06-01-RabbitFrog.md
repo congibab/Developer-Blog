@@ -40,7 +40,7 @@ last_modified_at: 2021-06-01
 # 主な担当(プログラマー)
 
 ## UI全般
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/RabbitFrog_UI.JPG" width= "49%" height="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/RabbitFrog_UI.JPG" width= "49%" height="50%" >
 
 <img src="doc/RabbitFrog_UI2.JPG" width= "49%" height="50%">
 
