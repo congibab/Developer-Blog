@@ -42,7 +42,7 @@ last_modified_at: 2021-06-01
 ## UI全般
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/RabbitFrog_UI.JPG" width= "49%" height="50%" >
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/RabbitFrog_UI2.JPG" width= "49%" height="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/RabbitFrog_UI2.JPG" width= "49%" height="50%" >
 
 ### スタート確認画面スクリプト
 ```csharp
