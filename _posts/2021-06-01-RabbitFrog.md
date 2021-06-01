@@ -42,7 +42,7 @@ last_modified_at: 2021-06-01
 ## UI全般
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/RabbitFrog_UI.JPG" width= "49%" height="50%" >
 
-<img src="doc/RabbitFrog_UI2.JPG" width= "49%" height="50%">
+<img src="{ site.url }}{{ site.baseurl }}/RabbitFrog_UI2.JPG" width= "49%" height="50%">
 
 ### スタート確認画面スクリプト
 ```csharp
@@ -60,7 +60,7 @@ public void Cencle()
 ```
 
 ## プレイヤースキル
-<img src="doc/RabbitFrog_skill.JPG" width= "50%" height="50%">
+<img src="{ site.url }}{{ site.baseurl }}/RabbitFrog_skill.JPG" width= "50%" height="50%">
 
 * マウス左クリックして直線や丸を書くことができる。
 * 直線を書くと敵を止める壁を生成(黄色のボックス)
@@ -123,7 +123,7 @@ public IEnumerator Close(RectTransform ObjTarget)
 }
 ```
 ## 会話シーン全般
-<img src="doc/RabbitFrog_Scenario.JPG" width= "50%" height="50%">
+<img src="{ site.url }}{{ site.baseurl }}/RabbitFrog_Scenario.JPG" width= "50%" height="50%">
 
 * プランナーがExcelで作業した会話データを適用
 
