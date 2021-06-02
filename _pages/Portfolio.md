@@ -2,7 +2,7 @@
 title: "Posts by Portfolio"
 permalink: /Portfolio/
 layout: single
+author_profile: true
 ---
 
-# github pages Portfolio
 ## test
