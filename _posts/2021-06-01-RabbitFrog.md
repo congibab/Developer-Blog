@@ -1,7 +1,6 @@
 ---
 title:  "水墨鳥獣"
 excerpt: "チーム制作で作ったiosゲーム"
-toc: true
 
 categories:
   - Blog
