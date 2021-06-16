@@ -44,7 +44,6 @@ last_modified_at: 2021-06-16
 ## 感想点
 物理エンジンを触るのが初めてなので**自分のオリジナルコードが少ないですが**  
 次のプロジェットは物理エンジン、GLSL(Shaer)を使ってオリジナル物理シミュレーションプログラム（ゲーム）作りを考えています。
-
 ## 動画(YouTube)
 [https://www.youtube.com/watch?v=LPJUOyeQz5w](https://www.youtube.com/watch?v=LPJUOyeQz5w)
 
@@ -52,7 +51,7 @@ last_modified_at: 2021-06-16
 [https://github.com/congibab/Hello_Bullet_Engine](https://github.com/congibab/Hello_Bullet_Engine)
 
 # プログラム実装画面
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/GameScene1.gif" width="49%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/GameScene2.gif" width="70%">
 
 ## 操作系（CapsLockがOFF基準）
 * W,S,A,Dでプレイヤー移動

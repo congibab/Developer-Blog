@@ -1,7 +1,13 @@
-# OpenGLプロジェット概要
-<!-- 
-<div style="page-break-before:always"></div> 
--->
+---
+title:  "初めてのOpenGLプロジェット"
+excerpt: "Computer Graphics研究 "
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2021-06-16
+---
 
 ## 使用言語, ツール 
 C++, GLSL, OpenGL  
@@ -42,7 +48,7 @@ LEE GEONHWI(イゴンヒ)
 
 # プログラム画面
 <p align="center">
-   <img src="./ScreenShot/ProgramScene.JPG" width="70%">
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ProgramScene.JPG" width="70%">
 </p>
 
 ## プログラム画面説明
@@ -147,8 +153,8 @@ bool Game::CollisionAABB(Cube* Target, Cube* box)
 # post processing(ScreenMoving)
 
 <p align="center">
-<img src="./ScreenShot/GameScene.JPG" width="40%">
-<img src="./ScreenShot/ScreenMovement.JPG" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/GameScene.JPG" width="48%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/ScreenMovement.JPG" width="48%">
 </p>
 <p align="center"> <strong>左）</strong>適用前、<strong>右）</strong>適用後</p> 
 
@@ -285,10 +291,10 @@ void main()
 # その他のpost processing
 
 ## 画面分割
-<p align="center"><img src="./ScreenShot/postshader2.JPG" width="40%"></p>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/postshader2.JPG" width="80%">
 
 ## モザイク
-<p align="center"><img src="./ScreenShot/postshader3.JPG" width="40%"></p>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/postshader3.JPG" width="80%">
 
 ## グレースケール
-<p align="center"><img src="./ScreenShot/postshader4.JPG" width="40%"></p>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/postshader4.JPG" width="80%">
