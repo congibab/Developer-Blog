@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "LEE GEONHWI(イゴンヒ)"
   avatar           : "assets/images/avatar.png"
-  bio              : "ゲーム開発者に目指しています。"
+  bio              : "ゲーム開発者を目指しています。"
   location         : "Japen"
   email            :
   links:
@@ -129,8 +129,8 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "https://github.com/congibab/Developer-Blog"
-      # url:
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/congibab/Developer-Blog"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
