@@ -1,4 +1,13 @@
-# Unity_UdpSample
+---
+title:  "Unity_UdpSample"
+excerpt: "UnityでUdp Socket通信を研究"
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2021-06-16
+---
 
 ## 製作理由
 他の学生さんにもUDP通信でネットワークゲームを開発が出来るように  

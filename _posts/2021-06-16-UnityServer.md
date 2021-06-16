@@ -1,4 +1,14 @@
-# SocketIOとUnityで利用したネットワーク通信ゲーム
+---
+title:  "SocketIOとUnityでネットワーク通信研究"
+excerpt: "初めてのServer 通信研究"
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2021-06-16
+---
+
 ## 使用言語
 Node.js, C#
 ## 実行環境
@@ -66,7 +76,7 @@ URL = ws://localhost:3000/socket.io/?EIO=4&transport=websocket
 # Client実行(defaultは個人のレンタルサーバー)
 ## 接続したいIPを変更したい場合は
 
-<p align="center"><img src="./doc/ipConnect.JPG" width= "50%"></p>
+<p align="center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/ipConnect.JPG" width= "80%"></p>
 
 
 赤いbox : ws://**localhost**:3000/socket.io/?EIO=4&transport=websocket  
@@ -74,7 +84,7 @@ localhostのみ自分が変更したいなIPを変更
 
 ## Title画面(Client1)
 
-<p align="center"><img src="./doc/Title1.JPG" width= "50%"></p>
+<p align="center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Title1.JPG" width= "80%"></p>
 
 * 赤いbox : Roomの名前入力してRoom Create **Button**を押すとゲームに入る。  
 * 黄色box : Messageを入力してSend **Button**を押すとMassageをServerに**送信**する。  
@@ -83,7 +93,7 @@ localhostのみ自分が変更したいなIPを変更
 
 ## Title画面(Client2)
 
-<p align="center"><img src="./doc/Title2.JPG" width= "50%"></p>
+<p align="center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Title2.JPG" width= "80%"></p>
 
 * 赤いbox : 生成されたRoom Listが表示してその**Button**を押すとゲームに入る。  
 * 黄色box : Serverから**送信**されたMassageがあったらMassage内容を表示する。  
@@ -91,7 +101,7 @@ localhostのみ自分が変更したいなIPを変更
 
 ## Game画面(待機)
 
-<p align="center"><img src="./doc/Game.JPG" width= "50%"></p>
+<p align="center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Game.JPG" width= "80%"></p>
 
 * 赤いbox : Player1のUUIDを表示(先にRoomに入れたClient)  
 * 黄色box : Player2のUUIDを表示(後にRoomに入れたClient)  **空白**ならまだPlayerは入れてな&い状態  
@@ -102,8 +112,8 @@ localhostのみ自分が変更したいなIPを変更
 ## Game画面(プレイ)
 
 <p align="center">
-<img src="./doc/Game2.JPG" width= "48%">
-<img src="./doc/Game3.JPG" width= "48%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Game2.JPG" width= "48%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Game3.JPG" width= "48%">
 </p>
 <p align="center">左）Client1 : 右）Client2</p>
 
@@ -211,7 +221,7 @@ io.on('connection', function (socket) {
 # Jenkinsで自動配信
 
 <p align="center">
-<img src="./doc/jenkins.JPG" width= "60%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jenkins.JPG" width= "80%">
 </p>
 
 Githubでdata push -> Jenkins foreverでサーバ更新して再起動 -> Slackに通常  

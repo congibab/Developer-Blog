@@ -1,4 +1,13 @@
-# DataBaseからイメージを取得する。プログラム
+---
+title:  "DataBaseからイメージを取得する。プログラム"
+excerpt: "Windows Formsを利用したDataBaseの情報を取得"
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2021-06-16
+---
 
 ## 製作理由
 ツール開発に興味があって、それを研究の為に、製作しました。
@@ -28,7 +37,7 @@
 
 
 # 実行画面(Gif)
-<center><img src = "doc/windowForm.gif"></center>
+<img src = "{{ site.url }}{{ site.baseurl }}/assets/images/windowForm.gif">
 
 # ソースコード(Form1.cs)
 

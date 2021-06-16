@@ -1,4 +1,13 @@
-# イメージアップロードツール(概要)
+---
+title:  "イメージアップロードツール"
+excerpt: "PHPとHTMLを利用したプロジェット"
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2021-06-16
+---
 
 ## 製作理由
 効率化向上のために、ゲームプランナーがガチャのデータをData Baseにアップロードを  
@@ -53,14 +62,14 @@ php DB_Init.php DB_user DB_password DB_name Table_name
 # 実行画面(web browser画面)
 
 ## Main View(Tool.php)
-<img src="doc/view1.JPG" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/view1.JPG" width="100%">
 
 ### 操作説明
 1. 参照ボタンをクリックしてPNGファイル選択(復習選択可能)
 2. ランク選択してSendボタンをクリック
 
 ## Result View(img_Upload.php)
-<img src="doc/result1.JPG" width="90%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/result1.JPG" width="100%">
 
 * アップロード成功、失敗の結果が表示されます。
 * ターミナル画面のData Baseに登録されています。
@@ -69,7 +78,7 @@ php DB_Init.php DB_user DB_password DB_name Table_name
 <div style="page-break-after: always; visibility: hidden"> </div>
 
 ## アップロード重複防止
-<img src="doc/result2.JPG" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/result2.JPG" width="100%">
 
 * ファイルが重複された場合、fail : this file uploadedが表示されます。
 

@@ -51,7 +51,7 @@ last_modified_at: 2021-06-16
 [https://github.com/congibab/Hello_Bullet_Engine](https://github.com/congibab/Hello_Bullet_Engine)
 
 # プログラム実装画面
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/GameScene2.gif" width="70%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/BulletgameScene1.gif" width="70%">
 
 ## 操作系（CapsLockがOFF基準）
 * W,S,A,Dでプレイヤー移動
