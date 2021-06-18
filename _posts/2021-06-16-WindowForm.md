@@ -7,6 +7,7 @@ categories:
 tags:
   - Blog
 last_modified_at: 2021-06-16
+classes: wide
 ---
 
 ## 製作理由
