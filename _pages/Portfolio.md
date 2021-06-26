@@ -8,18 +8,10 @@ classes: wide
 
 ## *2021.06.26更新*
 
+<!--
 ## 作品まとめ(ソースコード、実行ファイル) 
 * [GigaFile](https://13.gigafile.nu/0719-nfb68cd1808dba02524b4dfb6231020ad)
-
-## the-ruler
-
-* 制作期間 : 2021.04.20 ~ 作業中
-* コンセプト : 4人で遊べるネットワークカードゲーム
-* 制作意図 : 学内ゲーム展示会、出展用のチーム制作作品
-* プラットフォーム : Oculus, iOS, VIVE
-* 使用言語 : C#(Unity), Node.js(Server)
-* 担当 : プログラマー(サーバーサイド、クライアントサイド);
-
+-->
 ## Unity_UdpSample(字幕あり)
 
 {% include video id="fKeTiaLIYA8" provider="youtube" %}
