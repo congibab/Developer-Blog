@@ -5,8 +5,9 @@ excerpt: "チーム制作(2年生)"
 categories:
   - Blog
 tags:
-  - Blog
+  - team project
 classes: wide
+
 last_modified_at: 2021-06-01
 ---
 
