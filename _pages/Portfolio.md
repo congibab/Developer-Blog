@@ -11,9 +11,6 @@ classes: wide
 ## 作品まとめ(ソースコード) 
 * GigaFile : [https://35.gigafile.nu/0909-j9b7683b714badd171656df56cdd6e9fe](https://35.gigafile.nu/0909-j9b7683b714badd171656df56cdd6e9fe)
 
-<!--
-* [GigaFile](https://13.gigafile.nu/0719-nfb68cd1808dba02524b4dfb6231020ad)
--->
 ## threejs-glsl(作成中)
 * [プログラムURL](https://congibab.github.io/threejs-glsl/)
 * [ソースコード]({{ site.url }}{{ site.baseurl }}/blog/three-glsl)  
