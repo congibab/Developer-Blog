@@ -1,6 +1,6 @@
 ---
 title: "Posts by Portfolio"
-permalink: /Portfolio/
+permalink: /Portfolio_ALL/
 layout: single
 author_profile: true
 classes: wide

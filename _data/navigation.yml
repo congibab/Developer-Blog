@@ -2,9 +2,18 @@
 main:
    - title: "About me"
      url: /about_me/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-   - title: "Portfolio"
-     url: /Portfolio/
+     
+   - title: "Portfolio(ALL)"
+     url: /Portfolio_ALL/
+   
+   - title: "Portfolio(C++)"
+     url: /Portfolio_C/
+   
+   - title: "Portfolio(C#)"
+     url: /Portfolio_CSharp/
+
+   - title: "Portfolio(TS)"
+     url: /Portfolio_ts/
+   
    - title: "About website"
      url: /About_website/
