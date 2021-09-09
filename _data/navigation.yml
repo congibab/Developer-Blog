@@ -2,17 +2,17 @@
 main:
    - title: "About me"
      url: /about_me/
-     
+
    - title: "Portfolio(ALL)"
      url: /Portfolio_ALL/
    
-   - title: "Portfolio(C++)"
+   - title: "C++"
      url: /Portfolio_C/
    
-   - title: "Portfolio(C#)"
+   - title: "C#"
      url: /Portfolio_CSharp/
 
-   - title: "Portfolio(TS)"
+   - title: "TypeScript"
      url: /Portfolio_ts/
    
    - title: "About website"
