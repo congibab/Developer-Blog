@@ -114,4 +114,4 @@ classes: wide
 * プラットフォーム : ios
 * 使用言語 : C#  
 * [ソースコード]({{ site.url }}{{ site.baseurl }}/blog/RabbitFrog2)  
-* [GitHub](https://github.com/kumamoooooon0202/RabbitFrog.git)
+* [GitHub](https://github.com/kumamoooooon0202/RabbitFrog.git) 
