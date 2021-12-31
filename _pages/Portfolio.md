@@ -113,5 +113,7 @@ classes: wide
 * 制作意図：東京ゲームショウ2020出展用ゲームのチーム制作作品（TGS2020がオンラインになったため、学内で企業・一般向けの展示会開催）
 * プラットフォーム : ios
 * 使用言語 : C#  
-* [ソースコード]({{ site.url }}{{ site.baseurl }}/blog/RabbitFrog2)  
-* [GitHub](https://github.com/kumamoooooon0202/RabbitFrog.git) 
+* [ソースコード]({{ site.url }}{{ site.baseurl }}/blog/RabbitFrog2)
+* [GitHub](https://github.com/kumamoooooon0202/RabbitFrog.git)
+* asjdlkasjdlkasjd
+* ka;lsjdlkasjdlkasjdlk
